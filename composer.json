@@ -1,15 +1,15 @@
 {
-    "name": "fourlabs/xero-bundle",
+    "name": "rwkt/xero-bundle",
     "description": "Symfony bundle wrapping the XeroPHP library",
     "type": "symfony-bundle",
     "keywords": ["xero", "xero-php"],
     "require": {
         "php": ">=5.5.9",
-        "calcinai/xero-php": "^1.8",
-        "symfony/config": "^2.7|^3.0",
-        "symfony/debug": "^2.7|^3.0",
-        "symfony/dependency-injection": "^2.7|^3.0",
-        "symfony/framework-bundle": "^2.7|^3.0"
+        "calcinai/xero-php": "^2.4",
+        "symfony/config": "^6.0",
+        "symfony/debug": "^6.0",
+        "symfony/dependency-injection": "^6.0",
+        "symfony/framework-bundle": "^6.0"
     },
     "license": "MIT",
     "authors": [
