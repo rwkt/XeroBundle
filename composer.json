@@ -7,7 +7,7 @@
         "php": ">=5.5.9",
         "calcinai/xero-php": "^2.4",
         "symfony/config": "^6.0",
-        "symfony/debug": "^6.0",
+        "symfony/debug": "^4.0",
         "symfony/dependency-injection": "^6.0",
         "symfony/framework-bundle": "^6.0"
     },
